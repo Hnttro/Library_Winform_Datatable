@@ -1,0 +1,6 @@
+D:\ThuchanhC#\WF_QLTV_Thi\DAL\bin\Debug\DAL.dll
+D:\ThuchanhC#\WF_QLTV_Thi\DAL\bin\Debug\DAL.pdb
+D:\ThuchanhC#\WF_QLTV_Thi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ThuchanhC#\WF_QLTV_Thi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ThuchanhC#\WF_QLTV_Thi\DAL\obj\Debug\DAL.dll
+D:\ThuchanhC#\WF_QLTV_Thi\DAL\obj\Debug\DAL.pdb

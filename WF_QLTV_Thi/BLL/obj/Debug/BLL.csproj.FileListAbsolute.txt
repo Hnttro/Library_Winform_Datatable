@@ -1,0 +1,9 @@
+D:\ThuchanhC#\WF_QLTV_Thi\BLL\bin\Debug\BLL.dll
+D:\ThuchanhC#\WF_QLTV_Thi\BLL\bin\Debug\BLL.pdb
+D:\ThuchanhC#\WF_QLTV_Thi\BLL\bin\Debug\DAL.dll
+D:\ThuchanhC#\WF_QLTV_Thi\BLL\bin\Debug\DAL.pdb
+D:\ThuchanhC#\WF_QLTV_Thi\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ThuchanhC#\WF_QLTV_Thi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ThuchanhC#\WF_QLTV_Thi\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\ThuchanhC#\WF_QLTV_Thi\BLL\obj\Debug\BLL.dll
+D:\ThuchanhC#\WF_QLTV_Thi\BLL\obj\Debug\BLL.pdb

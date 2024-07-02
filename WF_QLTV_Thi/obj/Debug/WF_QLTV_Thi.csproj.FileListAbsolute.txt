@@ -1,0 +1,10 @@
+D:\ThuchanhC#\WF_QLTV_Thi\bin\Debug\WF_QLTV_Thi.exe.config
+D:\ThuchanhC#\WF_QLTV_Thi\bin\Debug\WF_QLTV_Thi.exe
+D:\ThuchanhC#\WF_QLTV_Thi\bin\Debug\WF_QLTV_Thi.pdb
+D:\ThuchanhC#\WF_QLTV_Thi\obj\Debug\WF_QLTV_Thi.csproj.AssemblyReference.cache
+D:\ThuchanhC#\WF_QLTV_Thi\obj\Debug\WF_QLTV_Thi.Form1.resources
+D:\ThuchanhC#\WF_QLTV_Thi\obj\Debug\WF_QLTV_Thi.Properties.Resources.resources
+D:\ThuchanhC#\WF_QLTV_Thi\obj\Debug\WF_QLTV_Thi.csproj.GenerateResource.cache
+D:\ThuchanhC#\WF_QLTV_Thi\obj\Debug\WF_QLTV_Thi.csproj.CoreCompileInputs.cache
+D:\ThuchanhC#\WF_QLTV_Thi\obj\Debug\WF_QLTV_Thi.exe
+D:\ThuchanhC#\WF_QLTV_Thi\obj\Debug\WF_QLTV_Thi.pdb
